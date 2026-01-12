@@ -1,0 +1,26 @@
+{
+  "metal": {
+    "species": "Domestic Clang Beast",
+    "temperament": "Rigid but loyal",
+    "habitat": "Urban dens",
+    "tax": "5 chaos credits"
+  },
+  "heat": {
+    "species": "Lesser Fire Elemental",
+    "temperament": "Irritable and humming",
+    "habitat": "Warm chambers",
+    "tax": "12 chaos credits"
+  },
+  "motion": {
+    "species": "Kinetic Gremlin",
+    "temperament": "Chaotic and restless",
+    "habitat": "Anywhere it shouldn't be",
+    "tax": "8 chaos credits"
+  },
+  "food": {
+    "species": "Kitchen Forager",
+    "temperament": "Timid but opportunistic",
+    "habitat": "Pantry biomes",
+    "tax": "3 chaos credits"
+  }
+}
