@@ -1,4 +1,4 @@
-import { classify } from "./classifier.js";
+import { classify } from "./src/classifier.js";
 
 document.addEventListener("DOMContentLoaded", () => {
   const input = document.getElementById("item-input");
